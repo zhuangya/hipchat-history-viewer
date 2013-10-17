@@ -1,0 +1,26 @@
+{
+  "name": "hipchat-history-viewer",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/.bin/jasmine-node spec/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/zhuangya/hipchat-history-viewer.git"
+  },
+  "author": {
+    "name": "Ya Zhuang",
+    "email": "zhuangya@gmail.com",
+    "url": "http://zhuangya.me"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "restify": "~2.6.0",
+    "underscore": "~1.5.2"
+  },
+  "devDependencies": {
+    "jasmine-node": "~1.11.0"
+  }
+}
